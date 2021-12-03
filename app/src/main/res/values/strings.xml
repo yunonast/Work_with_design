@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Work_with_design</string>
+    <string name="text_hello">Добро пожаловать в онлайн-гороскоп!</string>
+    <string name="text_button_learn">Узнать</string>
+</resources>
